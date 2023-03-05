@@ -1,0 +1,14 @@
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.AssemblyReference.cache
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
+D:\Цвигуненко Юлия 115 группа\Практикум №1\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache
